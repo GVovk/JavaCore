@@ -2,7 +2,7 @@ package lesson1;
 
 import lesson1.animals.Team;
 import lesson1.obstances.Course;
-
+//Класс Main
 public class Main {
     public static void main(String[] args) {
         Team team1 = new Team("Команда_1");
